@@ -1,5 +1,8 @@
 # Simplified DNA Extraction Method
 
+Modified: Pallotta et al. (2003) Proceedings of the Tenth International Wheat Genetics Symposium (1-6 September, 2003, Paestum, Italy) p.789-791.  
+Marker assisted wheat breeding in the southern region of Australia. 
+
 ## Reagents
 
 - 200mM Tris–HCl (pH 7.5)
